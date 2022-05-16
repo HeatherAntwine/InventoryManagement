@@ -1,6 +1,6 @@
 # InventoryManagement
 
-C# and Angular using Visual Studio and Microsoft SQL Server. Android application to follow shortly. 
+ASP.NET and Angular using Visual Studio and Microsoft SQL Server. Android application to follow shortly. 
 
 
 This Inventory Management system is made for the Leather shop, Cricket's Leathers. 
